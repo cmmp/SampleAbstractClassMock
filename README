@@ -1,0 +1,4 @@
+A simple example showing how to mock an abstract class with Mockito and PowerMock.
+
+The idea is to get a mock instance of the abstract class while being able to call it's real methods.
+
